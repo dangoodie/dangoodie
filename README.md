@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **The Odin Project**
 
-- 📫 How to reach me **dan.gooden.dev**
+- 📫 How to reach me **dan.gooden.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
