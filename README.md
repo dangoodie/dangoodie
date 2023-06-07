@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangoodie&label=Profile%20views&color=0e75b6&style=flat" alt="dangoodie" /> </p>
 
-- 🔭 I’m currently working on **symphonAI**
+- 💡 I'm a lighting director by trade
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🔭 In my free time I'm indiehacking on **symphonAI**
+
+- 🌱 Right now I'm learning **Golang**
 
 - 📫 How to reach me **dan.gooden.dev@gmail.com**
 
