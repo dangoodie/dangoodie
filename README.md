@@ -22,7 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dangoodie&show_icons=true&locale=en&layout=compact" alt="dangoodie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dangoodie&show_icons=true&locale=en" alt="dangoodie" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangoodie&" alt="dangoodie" /></p>
 
