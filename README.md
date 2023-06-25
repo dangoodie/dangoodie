@@ -7,7 +7,7 @@
 
 - 🔭 In my free time I'm indiehacking on **symphonAI**
 
-- 🌱 Right now I'm learning **Webex Bots**
+- 🌱 Right now I'm learning **Python** 
 
 - 📫 How to reach me **dan.gooden.dev@gmail.com**
 
