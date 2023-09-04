@@ -5,7 +5,7 @@
 
 - 💡 I'm a lighting director by trade
 
-- 🔭 In my free time I'm indiehacking on **symphonAI**
+- 🔭 In my free time I'm studying computer science at **University of New England**
 
 - 🌱 Right now I'm learning **Python** 
 
