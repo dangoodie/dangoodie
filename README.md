@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dan.gooden.dev@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/dangoodie)](https://leetcode.com/dangoodie)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dangoodie?ext=activity)](https://leetcode.com/dangoodie)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
