@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **dan.gooden.dev@gmail.com**
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dangoodie)](https://leetcode.com/dangoodie)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-gooden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-gooden" height="30" width="40" /></a>
