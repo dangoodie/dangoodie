@@ -7,7 +7,7 @@
 
 - 🔭 In my free time I'm studying computer science at **University of New England**
 
-- 🌱 Right now I'm learning **Operating Systems**, **Discrete Mathematics**, and **Software Design**
+- 🌱 Right now I'm learning **Python**
 
 - 📫 How to reach me **dan.gooden.dev@gmail.com**
 
