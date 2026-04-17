@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangoodie&label=Profile%20views&color=0e75b6&style=flat" alt="dangoodie" /> </p>
 
-- 💡 I'm a lighting director by trade
+- 💡 I'm a Field Service Engineer at DroneShield
 
 - 🔭 In my free time I'm studying computer science at **University of New England**
 
-- 🌱 Right now I'm learning **C++** and **Scala**
+- 🌱 Right now I'm creating **Obskura**
 
 - 📫 How to reach me **dan.gooden.dev@gmail.com**
 
